@@ -1,8 +1,0 @@
-npm run dev
-
-
-npx localtunnel --port 5173 --no-local-auth
-
-
-.\ngrok.exe config add-authtoken "3FqyHgQfgBxXURBqkDgshkweI2i_3cjwey5or1Vj5h4QDsRnW"
-.\ngrok.exe http 5173
